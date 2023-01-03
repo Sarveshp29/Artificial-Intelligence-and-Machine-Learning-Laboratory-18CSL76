@@ -4,7 +4,7 @@
 | :-------------: | ------------- |
 | 1 | [Implement A* Search algorithm](https://github.com/Sarveshp29/Artificial-Intelligence-and-Machine-Learning-Laboratory-18CSL76/tree/main/Program%201) |
 | 2 | [Implement AO* Search algorithm]  |
-| 3 | [For a given set of training data examples stored in a .CSV file, implement and demonstrate the  Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent  with the training examples]  |
+| 3 | [For a given set of training data examples stored in a .CSV file, implement and demonstrate the  Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent  with the training examples](https://github.com/Sarveshp29/Artificial-Intelligence-and-Machine-Learning-Laboratory-18CSL76/tree/main/Program%203)  |
 | 4 | [Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an  appropriate data set for building the decision tree and apply this knowledge to classify a new  sample] |
 | 5 | [Build an Artificial Neural Network by implementing the Back propagation algorithm and test the same using appropriate data sets]  |
 | 6 | [Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets]  |
