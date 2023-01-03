@@ -1,7 +1,7 @@
 # Artificial-Intelligence-and-Machine-Learning-Laboratory-18CSL76
 
 | Sl No | Program |
-| ------------- | ------------- |
+| :-------------: | ------------- |
 | 1 | [Implement A* Search algorithm] |
 | 2 | [Implement AO* Search algorithm]  |
 | 3 | [For a given set of training data examples stored in a .CSV file, implement and demonstrate the  Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent  with the training examples]  |
