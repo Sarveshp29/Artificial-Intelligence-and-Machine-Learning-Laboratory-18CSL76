@@ -123,3 +123,9 @@ Graph_nodes = {
 
 AStart('A', 'J')
 ```
+### Result
+```
+Path found: ['A', 'F', 'G', 'I', 'J'] 
+Process finished with exit code 0
+```
+
