@@ -43,3 +43,22 @@ for r in range(0, len(x_test)):
     print("----------------------------------------------------------------")
  
 ``` 
+### Result
+```
+Iris dataset is loaded successfully 
+Label 0 -> setosa
+Label 1 -> versicolor
+Label 2 -> virginica
+
+Result of the Classification using KNN with K=1
+
+Sample: [5.1 3.8 1.5 0.3] Actual Label: 0 Predicted Label: 0 Classification Accuracy: 1.0
+
+Sample: [6.4 3.2 5.3 2.3] Actual Label: 2 Predicted Label: 2 Classification Accuracy: 1.0
+
+Sample: [5.7 4.4 1.5 0.4] Actual Label: 0 Predicted Label: 0 Classification Accuracy: 1.0 
+
+Sample: [5.6 3. 4.1 1.3] Actual Label: 1 Predicted Label: 1 Classification Accuracy: 1.0
+```
+
+
